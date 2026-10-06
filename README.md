@@ -105,5 +105,6 @@ Python (Pandas, NumPy, Matplotlib, Seaborn), SQL (SQLite), Power BI (DAX), Jupyt
 
 ## Author
 
-**Your Name**  
-[LinkedIn](https://www.linkedin.com/in/your-profile) · [Email](mailto:your-email@example.com)
+**Atharva Lambde**
+📧 atharvalambde@gmail.com ·  [GitHub](https://github.com/atharvagit22)
+ If you found this project useful, please star the repository.
